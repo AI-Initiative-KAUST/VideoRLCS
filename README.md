@@ -267,3 +267,7 @@ python atari_dqn.py --task SeaquestNoFrameskip-v4 \
     year      = {2023}
 }
 ```
+
+## Acknowledgement 
+
+Thanks for the great code from [Tianshou](https://github.com/thu-ml/tianshou), [baby-a3c](https://github.com/greydanus/baby-a3c), [MiniGrid](https://github.com/Farama-Foundation/Minigrid) and [EDGE](https://github.com/Henrygwb/edge)
