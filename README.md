@@ -266,6 +266,13 @@ python atari_dqn.py --task SeaquestNoFrameskip-v4 \
     month     = {October},
     year      = {2023}
 }
+
+@article{liu2023learning,
+  title={Learning to Identify Critical States for Reinforcement Learning from Videos},
+  author={Liu, Haozhe and Zhuge, Mingchen and Li, Bing and Wang, Yuhui and Faccio, Francesco and Ghanem, Bernard and Schmidhuber, J{\"u}rgen},
+  journal={arXiv preprint arXiv:2308.07795},
+  year={2023}
+}
 ```
 
 ## Acknowledgement 
